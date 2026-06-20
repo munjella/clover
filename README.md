@@ -1,5 +1,7 @@
 # clover
-little desktop friend; talk with your computer! Clover is a small chatbot made in Python with Tkinter. You can pat them, hug them, ask for their opinion on sonic.......just look into the code to see what you can type!
+little desktop friend; talk with your computer!
+
+Clover is a small chatbot made in Python with Tkinter. You can pat them, hug them, ask for their opinion on sonic.......just look into the code to see what you can type!
 
 Important to note:
 The .py file will open a window already set to a specific colour and a fake bootup that are 100% changeable.
