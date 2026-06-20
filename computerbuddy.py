@@ -8,7 +8,6 @@ window = tk.Tk()
 window.title("Clover")
 window.geometry("800x600")
 window.configure(bg="#001a00")
-window.iconbitmap("clover.ico")
 
 chat = tk.Text(
     window,
@@ -36,7 +35,7 @@ thoughts = [
 ]
 
 
-def send_message():
+def send_message(): # warning: insane amount of if statements. sorry!! im not that advanced in python! im still in highschool...
     user = entry.get().lower().strip()
 
     if user == "hello":
